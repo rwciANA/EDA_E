@@ -1,3 +1,5 @@
+
+package lab_2;
 class ejercisio_1 {
 
     void  repetir(){
