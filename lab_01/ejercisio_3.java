@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class OrdenamientoInsercion {
+public class ejercisio_3 {
     public static void main(String[] args) {
         int[] arreglo = {7, 3, 9, 1, 5};
 

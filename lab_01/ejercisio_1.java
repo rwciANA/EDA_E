@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GestionCalificaciones {
+public class ejercisio_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Ingrese el número de estudiantes: ");
